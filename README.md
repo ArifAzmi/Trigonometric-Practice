@@ -1,2 +1,2 @@
 # Trigonometric-Practice
-Math App on Google Play: "Trigonometric Practice"
+This application teaches the basics of trigonometry through five lessons with an option to take an interactive quiz with randomized questions.
