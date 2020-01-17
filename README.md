@@ -25,23 +25,33 @@ Download *Trigonometric Practice* from the Google Play Store.
 The app has a total of five frames with the *Lessons* frame containing five lessons.
 
 #### 1. Main Menu
+![](Images/main_menu.PNG)
 
 #### 2. Lessons
 
 ###### Lesson 1
+![](Images/lesson1.PNG)
 
 ###### Lesson 2
+![](Images/lesson2.PNG)
 
 ###### Lesson 3
+![](Images/lesson3.PNG)
 
 ###### Lesson 4
+![](Images/lesson4.PNG)
 
 ###### Lesson 5
+![](Images/lesson5.PNG)
 
 #### 3. Quiz Instructions
+![](Images/instructions.PNG)
 
 #### 4. Quiz
-
 Sample Questions:
 
+![](Images/quiz1.PNG)
+![](Images/quiz2.PNG)
+
 #### 5. Quiz Results 
+![](Images/quiz_results.PNG)
